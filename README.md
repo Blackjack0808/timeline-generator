@@ -2,9 +2,6 @@
 
 A lightweight, responsive timeline generator built with HTML5, CSS3, and JavaScript. Perfect for showcasing events, milestones, or histories on websites, blogs, or portfolios.
 
-## Demo
-Check out the live demo: [https://emmanuelche33.github.io/timeline-generator/](https://emmanuelche33.github.io/timeline-generator/)
-
 ## Features
 - Add events with dates, titles, descriptions, and optional images via a simple form.
 - Switch between horizontal and vertical layouts.
