@@ -1,1 +1,1 @@
-# timeline-generator
+HTML5 Interactive timeline-generator
